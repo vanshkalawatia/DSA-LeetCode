@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vanshkalawatia/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/vanshkalawatia/DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
+| [1013-fibonacci-number](https://github.com/vanshkalawatia/DSA-LeetCode/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -29,4 +30,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vanshkalawatia/DSA-LeetCode/tree/master/0238-product-of-array-except-self) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/vanshkalawatia/DSA-LeetCode/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/vanshkalawatia/DSA-LeetCode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/vanshkalawatia/DSA-LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
