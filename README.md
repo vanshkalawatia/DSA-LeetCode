@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/vanshkalawatia/DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/vanshkalawatia/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/vanshkalawatia/DSA-LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0898-transpose-matrix](https://github.com/vanshkalawatia/DSA-LeetCode/tree/master/0898-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/vanshkalawatia/DSA-LeetCode/tree/master/0125-valid-palindrome) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/vanshkalawatia/DSA-LeetCode/tree/master/0898-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/vanshkalawatia/DSA-LeetCode/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
