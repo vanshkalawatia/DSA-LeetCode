@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vanshkalawatia/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/vanshkalawatia/DSA-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0898-transpose-matrix](https://github.com/vanshkalawatia/DSA-LeetCode/tree/master/0898-transpose-matrix) |
+| [0983-validate-stack-sequences](https://github.com/vanshkalawatia/DSA-LeetCode/tree/master/0983-validate-stack-sequences) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,10 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/vanshkalawatia/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/vanshkalawatia/DSA-LeetCode/tree/master/0898-transpose-matrix) |
+| [0983-validate-stack-sequences](https://github.com/vanshkalawatia/DSA-LeetCode/tree/master/0983-validate-stack-sequences) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vanshkalawatia/DSA-LeetCode/tree/master/0020-valid-parentheses) |
+| [0983-validate-stack-sequences](https://github.com/vanshkalawatia/DSA-LeetCode/tree/master/0983-validate-stack-sequences) |
 ## Bracket Sequences
 |  |
 | ------- |
